@@ -18,18 +18,18 @@ ______________________________________________
 
 # Router 
 1. Static Route: 
-	. Standard Route
-	. Floating Route
-	. Default Route
-	. Summery Route
-        ! Manupulating route using matxic value !.
-2. Dynamic Route:
-	. OSPF
-	! Manupulating Route using Cost value !.
-	! Manupulating DR & BDR election porcess !.
-	! Manupulating Hello Time & Dead Time !.
+	a. Standard Route                                                  
+	b. Floating Route                                               
+	c. Default Route
+	d. Summery Route                                                   
+        e.! Manupulating route using matxic value !.                             
+2. Dynamic Route:                                                           
+	a. OSPF                                                         
+	b.! Manupulating Route using Cost value !. 
+	c.! Manupulating DR & BDR election porcess !.
+	d.! Manupulating Hello Time & Dead Time !.
 3. Access Control List (ACL)
-	. Standard & Extended Access.
+	a. Standard & Extended Access.
 4. Network Address Translation (NAT).
 
 ________________________________________________
